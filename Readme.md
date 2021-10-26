@@ -4,11 +4,11 @@ Here I display a solution for two vulnerable web application servers via an ELK 
 Automated ELK Stack Deployment
 The files in this repository were used to configure the network depicted below.
 
-Project1_Network_Diagram
+Project1_Network_Diagram on Network folder
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Project 1 Network Diagram file may be used to install only certain pieces of it, such as Filebeat.
 
-filebeat-playbook.yml
+filebeat-playbook.yml on Ansible folder
 
 This document contains the following details:
 
